@@ -1,0 +1,3 @@
+[submodule "teste"]
+  path = src/repo
+  url = git@github.com:gabrielvgx/qwixx.git
