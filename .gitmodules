@@ -1,0 +1,3 @@
+[submodule "src/qwixx"]
+	path = src/qwixx
+	url = git@github.com:gabrielvgx/qwixx.git
